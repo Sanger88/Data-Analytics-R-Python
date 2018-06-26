@@ -1,2 +1,2 @@
-# Big Data Programming projects - R/Python.
+# Big Data programming - R/Python
 
