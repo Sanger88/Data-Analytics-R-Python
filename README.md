@@ -1,2 +1,2 @@
-# Big Data programming - R/Python
+# Big Data programming in R & Python
 
